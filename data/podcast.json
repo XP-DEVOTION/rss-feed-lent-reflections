@@ -11,7 +11,7 @@
          "name":"Eric Kouassi",
          "email":"hello@erickouassi.com"
       },
-      "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/podcast-cover.png",
+      "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
       "category":{
          "main":"Religion &amp; Spirituality",
          "sub":"Christianity"
@@ -41,9 +41,9 @@
          "episode":1,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-01.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-01.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-1-ash-wednesday.txt",
             "type":"text/plain"
          }
       },
@@ -64,9 +64,9 @@
          "episode":2,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-02.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-02.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-2-thursday-after-ash-wednesday.txt",
             "type":"text/plain"
          }
       },
@@ -87,9 +87,9 @@
          "episode":3,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-03.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-03.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-3-friday-after-ash-wednesday.txt",
             "type":"text/plain"
          }
       },
@@ -110,9 +110,9 @@
          "episode":4,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-04.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-04.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-4-the-first-step-of-conversion.txt",
             "type":"text/plain"
          }
       },
@@ -133,9 +133,9 @@
          "episode":5,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-05.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-05.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-5-the-purpose-of-fasting.txt",
             "type":"text/plain"
          }
       },
@@ -156,9 +156,9 @@
          "episode":6,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-06.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-06.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-6-the-quiet-work-of-grace.txt",
             "type":"text/plain"
          }
       },
@@ -179,9 +179,9 @@
          "episode":7,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-07.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-07.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-7-resting-in-gods-mercy.txt",
             "type":"text/plain"
          }
       },
@@ -202,9 +202,9 @@
          "episode":8,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-08.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-08.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-8-seeing-with-new-eyes.txt",
             "type":"text/plain"
          }
       },
@@ -225,9 +225,9 @@
          "episode":9,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-09.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-09.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-9-letting-go-of-false-strength.txt",
             "type":"text/plain"
          }
       },
@@ -248,9 +248,9 @@
          "episode":10,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-10.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-10.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-10-the-gift-of-hunger.txt",
             "type":"text/plain"
          }
       },
@@ -271,9 +271,9 @@
          "episode":11,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-11.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-11.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-11-love-your-enemies.txt",
             "type":"text/plain"
          }
       },
@@ -294,9 +294,9 @@
          "episode":12,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-12.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-12.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-12-listen-to-him.txt",
             "type":"text/plain"
          }
       },
@@ -317,9 +317,9 @@
          "episode":13,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-13.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-13.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-13-be-merciful-like-the-father.txt",
             "type":"text/plain"
          }
       },
@@ -340,9 +340,9 @@
          "episode":14,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-14.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-14.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-14-the-freedom-of-humility.txt",
             "type":"text/plain"
          }
       },
@@ -363,9 +363,9 @@
          "episode":15,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-15.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-15.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-15-the-cost-of-discipleship.txt",
             "type":"text/plain"
          }
       },
@@ -386,9 +386,9 @@
          "episode":16,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-16.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-16.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-16-made-new-by-mercy.txt",
             "type":"text/plain"
          }
       },
@@ -409,9 +409,9 @@
          "episode":17,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-17.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-17.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-17-from-rejected-to-chosen.txt",
             "type":"text/plain"
          }
       },
@@ -432,9 +432,9 @@
          "episode":18,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-18.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-18.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-18-the-father-who-runs.txt",
             "type":"text/plain"
          }
       },
@@ -455,9 +455,9 @@
          "episode":19,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-19.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-19.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-19-give-me-this-water.txt",
             "type":"text/plain"
          }
       },
@@ -478,9 +478,9 @@
          "episode":20,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-20.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-20.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-20-the-one-thing-needed.txt",
             "type":"text/plain"
          }
       },
@@ -501,9 +501,9 @@
          "episode":21,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-21.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-21.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-21-learning-to-trust.txt",
             "type":"text/plain"
          }
       },
@@ -524,9 +524,9 @@
          "episode":22,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-22.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-22.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-22-the-law-of-love.txt",
             "type":"text/plain"
          }
       },
@@ -547,9 +547,9 @@
          "episode":23,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-23.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-23.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-23-listening-for-the-voice-of-god.txt",
             "type":"text/plain"
          }
       },
@@ -570,9 +570,9 @@
          "episode":24,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-24.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-24.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-24-a-heart-of-compassion.txt",
             "type":"text/plain"
          }
       },
@@ -593,9 +593,9 @@
          "episode":25,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-25.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-25.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-25-set-apart-for-love.txt",
             "type":"text/plain"
          }
       },
@@ -616,9 +616,9 @@
          "episode":26,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-26.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-26.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-26-rejoice-in-the-light.txt",
             "type":"text/plain"
          }
       },
@@ -639,9 +639,9 @@
          "episode":27,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-27.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-27.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-27-a-new-heart.txt",
             "type":"text/plain"
          }
       },
@@ -662,9 +662,9 @@
          "episode":28,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-28.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-28.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-28-do-you-want-to-be-made-well.txt",
             "type":"text/plain"
          }
       },
@@ -685,9 +685,9 @@
          "episode":29,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-29.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-29.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-29-light-in-the-darkness.txt",
             "type":"text/plain"
          }
       },
@@ -708,9 +708,9 @@
          "episode":30,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-30.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
-            "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-30.txt",
+            "url":"https://raw.githubusercontent.com/XP-DEVOTION/Lent-Daily-Guide/refs/heads/main/scripts/day-30-the-god-who-provides.txt",
             "type":"text/plain"
          }
       },
@@ -731,7 +731,7 @@
          "episode":31,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-31.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-31.txt",
             "type":"text/plain"
@@ -754,7 +754,7 @@
          "episode":32,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-32.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-32.txt",
             "type":"text/plain"
@@ -777,7 +777,7 @@
          "episode":33,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-33.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-33.txt",
             "type":"text/plain"
@@ -800,7 +800,7 @@
          "episode":34,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-34.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-34.txt",
             "type":"text/plain"
@@ -823,7 +823,7 @@
          "episode":35,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-35.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-35.txt",
             "type":"text/plain"
@@ -846,7 +846,7 @@
          "episode":36,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-36.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-36.txt",
             "type":"text/plain"
@@ -869,7 +869,7 @@
          "episode":37,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-37.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-37.txt",
             "type":"text/plain"
@@ -892,7 +892,7 @@
          "episode":38,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-38.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-38.txt",
             "type":"text/plain"
@@ -915,7 +915,7 @@
          "episode":39,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-39.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-39.txt",
             "type":"text/plain"
@@ -938,7 +938,7 @@
          "episode":40,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-40.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-40.txt",
             "type":"text/plain"
@@ -961,7 +961,7 @@
          "episode":41,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-41.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-41.txt",
             "type":"text/plain"
@@ -984,7 +984,7 @@
          "episode":42,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-42.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-42.txt",
             "type":"text/plain"
@@ -1007,7 +1007,7 @@
          "episode":43,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-43.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-43.txt",
             "type":"text/plain"
@@ -1030,7 +1030,7 @@
          "episode":44,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-44.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-44.txt",
             "type":"text/plain"
@@ -1053,7 +1053,7 @@
          "episode":45,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-45.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-45.txt",
             "type":"text/plain"
@@ -1076,7 +1076,7 @@
          "episode":46,
          "season":1,
          "episodeType":"full",
-         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/images/day-46.png",
+         "image":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent-reflections/main/images/lent-podcast-cover.png",
          "transcript":{
             "url":"https://raw.githubusercontent.com/XP-DEVOTION/rss-feed-lent/main/transcripts/day-46.txt",
             "type":"text/plain"
